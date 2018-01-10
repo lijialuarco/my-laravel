@@ -1,0 +1,18 @@
+{
+    "name": "lico/my-laravel",
+    "description": "The micro laravel Framework",
+    "type": "project",
+    "require": {
+        "illuminate/routing": "5.4",
+        "illuminate/events": "5.4",
+        "illuminate/database": "5.4",
+        "illuminate/view": "5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lico",
+            "email": "18909336686@163.com"
+        }
+    ]
+}
