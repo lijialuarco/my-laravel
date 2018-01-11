@@ -4,10 +4,10 @@
 return [
     'driver'    => 'mysql',
     'host'      => 'localhost',
-    'database'  => 'test',
+    'database'  => 'mylaravel',
     'username'  => 'root',
     'password'  => '',
     'charset'   => 'utf8',
-    'collation' => 'utf_general_ci',
+    'collation' => 'utf8_general_ci',
     'prefix'    => '',
 ];
